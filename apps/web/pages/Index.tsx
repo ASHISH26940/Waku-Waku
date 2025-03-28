@@ -830,7 +830,7 @@ useEffect(() => {
           </div>
 
           <div className="text-center text-sm text-muted-foreground mt-8">
-            © 2024 Waku-Waku. All rights reserved.
+            ©2025 waku-Waku. All rights reserved.
           </div>
         </div>
       </footer>
