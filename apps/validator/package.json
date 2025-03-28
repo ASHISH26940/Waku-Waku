@@ -1,0 +1,13 @@
+{
+  "name": "validator",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@repo/db": "*",
+    "@repo/common": "*"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
